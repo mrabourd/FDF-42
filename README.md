@@ -6,7 +6,7 @@ Wireframe model
 
 ![Alt text](images/fdf_42.png?raw=true "42")
 
-![Alt text](images/fddf_pyra.png?raw=true "Pyra")
+![Alt text](images/fdf_pyra.png?raw=true "Pyra")
 
 ![Alt text](images/fdf_pyra-vue_parallele.png?raw=true "Pyra, vue parallele")
 
